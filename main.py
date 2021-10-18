@@ -38,7 +38,7 @@ async def on_message(message):
 
 
 
-    if message.content.startswith("!pc"):
+    if message.content.startswith("!pc") and message.channel.id == comch:
       await message.channel.send("This feature is in beta.")
     
 
