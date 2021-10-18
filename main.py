@@ -8,8 +8,8 @@ import requests
 
 bot = discord.Client(activity=discord.Game(name="Nitro"))
 
-comch = 859688850346868747
-dropch = 899255722926301205
+comch = 899554220204781619
+dropch = 899554241910280192
 aemo = "<a:ani:886814282694668298>"
 emo = "<:EWdeUeHXkAQgJh7:886492479577264148>"
 
